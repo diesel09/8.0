@@ -343,7 +343,7 @@ msg -bar2 && msg -verm "#¡Key Invalida#! " && msg -bar2
 exit 1
 }
 while [[ ! $Key ]]; do
-msg -bar2 && msg -ne "# DIGITE LA KEY #: " && read Key
+msg -bar2 && msg -ne "# TE LA CREISTE WE!, Adquiera su key +52 9842147259: " && read Key
 tput cuu1 && tput dl1
 done
 msg -ne "# Verificando Key # : "
